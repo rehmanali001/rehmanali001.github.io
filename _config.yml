@@ -1,11 +1,11 @@
 # Site settings
 author: Rehman Ali
-title: 
+title: CLI Gem Project
 header-img: img/home-bg.png
 email: rehmanali001@gmail.com
 copyright_name: Rehman Ali
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI Gem Project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rehmanali001
