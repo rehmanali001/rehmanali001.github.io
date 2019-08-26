@@ -1,11 +1,11 @@
 # Site settings
 author: Rehman Ali
-title: CLI Gem Project
+title: Flatiron School 
 header-img: img/home-bg.png
 email: rehmanali001@gmail.com
 copyright_name: Rehman Ali
 description: > # this means to ignore newlines until "baseurl:"
-  CLI Gem Project
+  Flatiron School 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rehmanali001
